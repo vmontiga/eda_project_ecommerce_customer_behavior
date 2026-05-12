@@ -1,5 +1,12 @@
 # Customer Analytics & Churn Analysis Project
 
+## Files / Materials
+
+- **graphs** Contains all figures used in the presentation
+- **Presentation.pdf** Contains the support of the project presentation
+- **.csv and .db** Contain the database used for this project
+- **eda_analysis.ipynb** Contains all the materials, code, plots and insights of the project
+
 ## Project Overview
 
 This project explores customer behavior, customer lifetime value (CLV), engagement, and churn patterns using Python, SQL, and data visualization techniques. The goal is to identify the key drivers of customer value and retention while showcasing end-to-end analytical workflows including data cleaning, feature engineering, statistical analysis, SQL querying, and business storytelling.
@@ -39,7 +46,6 @@ This project explores customer behavior, customer lifetime value (CLV), engageme
 - **Visualization**
   - Seaborn
   - Matplotlib
-  - Tableau (optional dashboarding)
 
 ---
 
@@ -60,6 +66,5 @@ This project explores customer behavior, customer lifetime value (CLV), engageme
 
 - Identify high-value customer segments
 - Understand customer engagement patterns
-- Detect churn indicators
 - Evaluate the impact of customer loyalty
 - Generate actionable business insights for retention and growth strategies
